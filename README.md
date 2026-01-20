@@ -36,7 +36,3 @@ If you’re new to Linux:
 3. Follow the examples and try modifying commands to see how Linux behaves.
 
 ---
-
-## 📂 Repository Structure (Optional)
-You can structure your repo as follows for clarity:
-
