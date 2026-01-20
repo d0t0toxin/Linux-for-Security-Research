@@ -1,9 +1,13 @@
 * * *
 
 Directory Navigation: `pwd` `cd`
+
 Listing Contents: `ls`
+
 File Operations: `cp` `mv` `rm` `file` `stat`
+
 Directory Operations: `mkdir` `rmdir`
+
 Links: `ln`
 
 
